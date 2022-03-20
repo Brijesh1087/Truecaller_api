@@ -1,0 +1,6 @@
+#truecaller api use for any phone number details get
+sudo apt update && apt upgrade -y
+sudo apt install nodejs
+npm install -g truecaller 
+truecaller login
+truecaller -h # for help
