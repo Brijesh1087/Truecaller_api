@@ -2,5 +2,5 @@
 sudo apt update && apt upgrade -y
 sudo apt install nodejs
 npm install -g truecallerjs
-truecaller login
-truecaller -h # for help
+truecallerjs login
+truecallerjs -h # for help
